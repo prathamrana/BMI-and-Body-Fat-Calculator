@@ -4,6 +4,9 @@ Submitted by: **Pratham Rana**
 - Interactive program where when it is runned, it brings up a graphical user interface panel where the user enters their current measurements (height, weight waist, neck) in U.S. units and level of activity
 - Composed of JFrame, JPanel, JButton and ActionListener for each set of measurements and outputs
 - Provides comments based on the user’s input to tell if their BMI is normal and if they need to change their level of activity/diet 
+- These metrics can help to track your progress towards achieving a healthy body structure
+- The application calculates the daily requirement of protein, the Body Mass Index, the Waist-to-Height ratio, and the percentage of body fat using the U.S. Navy Circumference Method
+- Measurements should be done so that the tape measure fits snugly but does not compress the skin
 - Coded in Java
 
 
